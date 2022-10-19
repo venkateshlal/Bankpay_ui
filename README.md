@@ -1,4 +1,4 @@
-![image_2022-10-16_164957801](https://user-images.githubusercontent.com/111181152/196032369-f7bc1155-f975-448c-b3ee-c7780d23ae8e.png)
+
 # flutter_application_sbi
 
 A new Flutter project.
